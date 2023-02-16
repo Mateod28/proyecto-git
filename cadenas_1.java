@@ -4,7 +4,7 @@ public class cadenas_1 {
         Scanner inputData = new Scanner(System.in);
         String name;
         int number;
-
+        System.out.print("HOLA A TODOS por segunda vez: ");
         System.out.print("Ingrese su nombre: ");
         name = inputData.nextLine();
         System.out.print("Ingrese un numero entero: ");
